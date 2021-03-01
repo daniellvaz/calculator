@@ -9,7 +9,11 @@
   </a>
 </p>
 
-> A calculator code using vanlila javascript
+> A calculator code using vanlila javascript.
+
+
+<img alt="calculator gif" src="https://github.com/daniellvaz/calculator/blob/master/calculator.gif" />
+
 
 ## Install
 
